@@ -1,10 +1,10 @@
-## MAE-207-Reduced-order-Modeling-Class-Project
-# Reduced-order modeling for fast computational analysis of hyperelastic materials
+# MAE-207-Reduced-order-Modeling-Class-Project
+## Reduced-order modeling for fast computational analysis of hyperelastic materials
 
-# Installation
+## Installation
 - RBniCs first from https://github.com/mathLab/RBniCS
 
-# There are mainly three problems that we consider to solve
+## There are mainly three problems that we consider to solve
 - 3D static elastic problem with stiffness, body, traction forces changing in the POD snapshots (finished)
 
 - 3D dynamic elastic problem with stiffness, body, traction forces changing in the POD snapshots (in progress)
