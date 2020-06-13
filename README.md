@@ -12,4 +12,4 @@ Note: Ubuntu users might have problem with updating the PETSC to the newest vert
 - 3D dynamic elastic problem with stiffness, body, traction forces changing in the POD snapshots (in progress)
   . Note: this is a user-defined hyperbolic problem in RBniCs, which could be genralized to any 3D dynamic elastic problem     given the imported mesh (tentatively trying the meshio for unstructured geometry)
   
-  - 3D dynamic hyperelastic problem with stiffness, body, traction forces changing in the POD snapshots (in progress)
+- 3D dynamic hyperelastic problem with stiffness, body, traction forces changing in the POD snapshots (in progress)
