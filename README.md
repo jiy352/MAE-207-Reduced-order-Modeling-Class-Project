@@ -2,7 +2,9 @@
 ## Reduced-order modeling for fast computational analysis of hyperelastic materials
 
 ## Installation
-- RBniCs first from https://github.com/mathLab/RBniCS
+- FeniCs from https://fenicsproject.org/
+- RBniCs from https://github.com/mathLab/RBniCS
+Note: Ubuntu users might have problem with updating the PETSC to the newest vertion. Please find the solution in tIGAr framework.
 
 ## There are mainly three problems that we consider to solve
 - 3D static elastic problem with stiffness, body, traction forces changing in the POD snapshots (finished)
